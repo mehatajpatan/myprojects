@@ -1,7 +1,8 @@
+
 package arithmeticcalculator;
 import java.util.Scanner;
 
-public class arithmetic {
+public class arithmeticcalculator {
 	public static void main(String[] args) {
 
     char operator;
@@ -54,5 +55,6 @@ public class arithmetic {
 
     input.close();
   }
-
 }
+
+
